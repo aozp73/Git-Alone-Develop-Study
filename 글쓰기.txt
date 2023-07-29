@@ -1,0 +1,4 @@
+1. 글쓰기 Model 완료
+2. 글쓰기 Controller 완료
+3. 글쓰기 View 완료
+4. DB연결 완료
